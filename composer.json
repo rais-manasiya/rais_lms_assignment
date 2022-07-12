@@ -1,0 +1,14 @@
+{
+    "name": "rais/validation",
+    "description": "To test form submission",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Rais Manasiya",
+            "email": "rais.manasiya786@gmail.com"
+        }
+    ],
+    "require": {}
+}
